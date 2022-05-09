@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 - 🔭 I’m currently working on ...
@@ -21,8 +20,6 @@
 - 🌱 I’m currently learning Golang and Kubernetes  
 - ❓ Ask me about anything related to full stack development and devops  
 - 🔎 I'm currently interested in Distributed Systems  
-  
-<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
