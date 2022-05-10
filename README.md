@@ -90,8 +90,8 @@
 
 
 ## Github Stats  
-<div align="center"><img width=396 src="https://github-readme-stats.vercel.app/api?username=Catastrophe0123&show_icons=true&count_private=true&hide_border=true" align="left" />
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Catastrophe0123&date_format=M%20j%5B%2C%20Y%5D)" align="right"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Catastrophe0123&show_icons=true&count_private=true&hide_border=true" align="center" />
+<!--    <img src="https://github-readme-streak-stats.herokuapp.com?user=Catastrophe0123&date_format=M%20j%5B%2C%20Y%5D)" align="right"/> -->
    
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Catastrophe0123&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
